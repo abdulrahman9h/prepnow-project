@@ -2,7 +2,7 @@
 
 An AI-powered career-readiness platform that helps students assess their skills, follow a personalized training plan, and practice job interviews with automated AI feedback. Built as a graduation project at Shaqra University.
 
-**Live demo:** https://xkh11.github.io/prepnow/
+**Live demo:** https://abdulrahman9h.github.io/prepnow-project/
 
 ## Overview
 
